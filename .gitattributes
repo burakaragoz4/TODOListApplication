@@ -4,3 +4,5 @@
 *.dart linguist-detectable=true
 *.java linguist-detectable=false
 *.cpp linguist-detectable=false
+*.ch linguist-detectable=false
+
