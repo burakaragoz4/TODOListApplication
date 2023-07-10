@@ -3,3 +3,4 @@
 *.css linguist-detectable=false
 *.dart linguist-detectable=true
 *.java linguist-detectable=false
+*.cpp linguist-detectable=false
